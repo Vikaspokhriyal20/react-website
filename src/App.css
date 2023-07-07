@@ -1,0 +1,79 @@
+*
+{
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+.hero h1
+{
+color: #23272F;
+font-weight:900;
+letter-spacing: 1.2px;
+}
+
+.hero button
+{
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+  background-color: #23272F;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 16px;
+
+}
+
+.hero-img
+{
+  border-radius: 5px;
+  filter: drop-shadow(0.5px 0.5px 10px lightblue);
+
+  
+}
+.card
+{
+  background-color: aliceblue;
+
+}
+
+
+/* counter app  */
+
+.btn-1
+{
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+  background-color: green;
+  text-transform: uppercase;
+  font-size: 16px;
+  color: white;
+
+}
+.btn-2
+{
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+  background-color: red;
+  text-transform: uppercase;
+  font-size: 16px;
+  color: white;
+  
+}
+
+.card-btn
+{
+  padding: 8px 20px;
+  border: none;
+  outline: none;
+  background-color: blueviolet;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+
+
